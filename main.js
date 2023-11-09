@@ -1,0 +1,1 @@
+Alart('Olá mundo');
